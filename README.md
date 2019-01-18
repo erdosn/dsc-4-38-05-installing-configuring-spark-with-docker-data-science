@@ -90,3 +90,13 @@ Do not worry if you dont fully comprehend what above meant. NExt we will look in
 ## Summary 
 
 In this lesson, we looked at installing Spark using Docker container. The process works same for both MAc and Windows based systems. Make sure to follow all steps in the given sequence. 
+
+
+```python
+url = "https://www.bankofamerica.com/ericahost/{}/{}/text={}"
+```
+
+
+```python
+sentences_to_test = []*20000
+```
